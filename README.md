@@ -230,7 +230,7 @@ Implementing these recommendations could optimize **$329.5M in annual marketing 
 
 ## 👤 Author
 
-**Kristin Angelina**
+**Kristine Angelina**
 - GitHub: [@kristinangelinaa](https://github.com/kristinangelinaa)
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/kristinangelinaa)
 - Passionate about transforming data into actionable business insights
