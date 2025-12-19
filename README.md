@@ -2,9 +2,7 @@
 
 An end-to-end data analytics project analyzing 87,743+ influencer marketing campaigns to optimize budget allocation and maximize ROI across social media platforms.
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
-[![Pandas](https://img.shields.io/badge/Pandas-2.0+-green.svg)](https://pandas.pydata.org/)
+[streamlit dashboard | https://kristine-angelina-influencer-marketing-analytics-dashboard.streamlit.app]
 
 ---
 
